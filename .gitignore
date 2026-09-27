@@ -1,0 +1,36 @@
+# Dependências e caches
+node_modules/
+.next/
+dist/
+out/
+build/
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Arquivos de Sistema e IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Variáveis de ambiente e segredos
+.env
+.env.local
+.env.*.local
+
+# Proteção Git LFS e Binários Pesados
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.iso
+*.bin
+*.exe
