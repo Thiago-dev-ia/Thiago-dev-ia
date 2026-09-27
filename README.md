@@ -4,7 +4,7 @@
 ### `Vibe Coder & AI-First Builder 🚀`
 
 <p align="center">
-  <b>Construindo ecossistemas de software, produtos digitais e automações na velocidade da inteligência artificial.</b>
+  <b>Construindo ecossistemas de software, soluções reais e automações na velocidade da inteligência artificial.</b>
 </p>
 
 [![Website](https://img.shields.io/badge/Portfólio-thiagonascimentobarbosapro.com-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thiagonascimentobarbosapro.com)
@@ -15,29 +15,38 @@
 
 </div>
 
-## ⚡ Sobre Mim
+## ⚡ Sobre Mim & Filosofia
 
-- 🚀 **Mindset:** Vibe Coding & AI-Driven Development — foco obsessivo em transformar ideias em produtos reais, acessíveis e operacionais em tempo recorde.
+- 🚀 **Mindset Vibe Coder:** Resolver problemas reais usando tecnologia e IA como multiplicadores de força. Foco em velocidade de ideação, prototipagem ágil e produtos funcionais no ar.
 - 🎓 **Formação:** Estudante de Análise e Desenvolvimento de Sistemas (ADS).
-- 🏢 **Empreendedorismo:** Fundador da **TM Sempre Tecnologia**, desenvolvendo ecossistemas digitais, soluções para pequenos e médios negócios e arquitetura de automações.
+- 🏢 **Empreendedorismo:** Fundador da **TM Sempre Tecnologia**, construindo ferramentas e soluções digitais autônomas.
 - 📍 **Base:** Goiânia, GO — Brasil.
 
 ---
 
-## 💼 Trajetória & Resumo Profissional Real
+## 🏆 Jornada Real: De Operador a Criador de Soluções
 
-- **TM Sempre Tecnologia (2023 - Presente) • Fundador & Desenvolvedor Full-Stack / Automação**
-  - Concepção e implantação de ecossistemas web completos, simuladores e **Landing Pages de alta conversão** com funis interativos.
-  - Criação do **Caderno de Leads** (CRM analítico com dashboards dinâmicos para qualificação comercial e prospecção).
-  - Desenvolvimento de aplicações PWA com arquitetura mobile-first, integrando APIs modernas, webhooks e bancos de dados em nuvem.
-  - Orquestração de agentes autônomos e workflows com **IA aplicada (Claude Code, Hermes, OpenAI)** reduzindo ciclos de prototipagem em mais de 70%.
+A minha trajetória profissional é pautada por um princípio: **entrar na operação para entender a dor e construir a ferramenta que resolve o gargalo.**
 
-- **Maffeng Engenharia e Manutenção (2024 - 2026) • Arquiteto de Automação & Frontend Interno**
-  - Criação da suíte **AutoRelatório V5** e painéis internos, reduzindo em **85% o tempo de confecção** de relatórios técnicos para contratos de grande porte (Banco do Brasil, Correios, SEAD).
-  - Modelagem de dashboards operacionais e de indicadores em tempo real para controle de ordens de serviço e cumprimento de SLAs.
-
-- **Operações, Logística & Backoffice (2019 - 2023) • Moto Brasil Peças / Brasil Telecom / Promed**
-  - Formação de base sólida em processos operacionais, disciplina rigorosa de prazos sob pressão e comunicação assertiva entre setores.
+```text
+[2019-2021] Aprendiz Administrativo (Inspetoria São João Bosco)
+      │      ↳ Primeiros passos em processos, rotinas de escritório e organização.
+      ▼
+[2022-2024] Atendimento, Estoque & Vendas (Brasil Telecom • Moto Brasil • LM Intermediações)
+      │      ↳ Vivência intensa na ponta da operação: clientes, prazos sob pressão e negociação.
+      ▼
+[2024-2025] Auxiliar de Engenharia ➔ Pioneiro em Automação (Maffeng Engenharia & Manutenção)
+      │      ↳ De relatórios manuais a desenvolvedor de soluções internas:
+      │        • Desenvolveu rotinas em VBA e a suíte "AutoRelatório" para relatórios fotográficos.
+      │        • Criou o "Gerenciador de O.S." para controle de demandas críticas.
+      │        • Bateu o recorde interno de 28 relatórios em 30 dias.
+      │        • Conquistou o mérito de ser o 1º funcionário da empresa com modelo Home Office fixo.
+      │        • Atuou na Explan (marcenaria de alto padrão do grupo): criou o app de orçamentos,
+      │          vídeos com IA, apresentações comerciais, contratos e documentação técnica.
+      ▼
+[2025-Hoje]  Fundador TM Sempre Tecnologia & Vibe Coder
+             ↳ Criação de produtos digitais, CRMs próprios (Caderno de Leads), funis e agentes de IA.
+```
 
 ---
 
@@ -71,7 +80,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-#### 🎯 CRO, Tráfego & Aquisição
+#### 🎯 CRO, Tráfego & Funis de Conversão
 ![CRO & Funis](https://img.shields.io/badge/CRO_&_Funis-059669?style=flat-square)
 ![Meta Pixel & Ads](https://img.shields.io/badge/Meta_Ads_&_Pixel-0668E1?style=flat-square&logo=meta&logoColor=white)
 ![Google Analytics 4](https://img.shields.io/badge/GA4_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
@@ -80,14 +89,14 @@
 
 ---
 
-## 🚀 Projetos & Aplicações em Destaque
+## 🚀 Projetos & Soluções Desenvolvidas
 
-| Projeto | Descrição | Tecnologia / Foco |
+| Projeto / Iniciativa | Problema Resolvido | Tecnologias & Impacto |
 | :--- | :--- | :--- |
-| **Caderno de Leads** | CRM e painel analítico para gestão de prospecção ativa e funis de vendas B2B. | `Python` `APIs` `Dashboards` |
-| **AutoRelatório V5** | Automação industrial para relatórios técnicos em lote com redução de 85% do tempo. | `Python` `Automação` `Backoffice` |
-| **Simulador de Orçamentos** | Aplicação web com cálculo dinâmico para marcenarias e prestadores de serviço. | `Web App` `PWA` `CRO` |
-| **PyAutoGUI Macro Studio** | Gravador e executor de automações desktop em lote com interface CustomTkinter. | `Python` `Desktop UI` `RPA` |
+| **AutoRelatório & Gerenciador de O.S.** | Automação de relatórios fotográficos de engenharia e gestão de chamados na Maffeng. | `VBA` `Python` `Recorde de 28 relatórios/35 dias` |
+| **App Orçamentos Explan (Marcenaria)** | Simulador web mobile-first para quantitativos de marcenaria de alto padrão, contratos e propostas. | `Web App` `CRO` `PWA` `Apresentações IA` |
+| **Caderno de Leads** | Dashboard analítico e CRM proprietário para qualificação e prospecção de negócios locais. | `Python` `APIs` `Dashboards` |
+| **PyAutoGUI Macro Studio** | Gravador e executor de automações desktop em lote com interface CustomTkinter. | `Python` `CustomTkinter` `RPA` |
 
 ---
 
