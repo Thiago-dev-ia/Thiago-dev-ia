@@ -19,7 +19,7 @@
 
 - 🚀 **Mindset Vibe Coder:** Resolver problemas reais usando tecnologia e IA como multiplicadores de força. Foco em velocidade de ideação, prototipagem ágil e produtos funcionais no ar.
 - 🎓 **Formação:** Estudante de Análise e Desenvolvimento de Sistemas (ADS).
-- 🏢 **Empreendedorismo:** Fundador da **TM Sempre Tecnologia**, construindo ferramentas, automações e soluções digitais autônomas.
+- 🏢 **Empreendedorismo:** Fundador da **TM Sempre Tecnologia**, construindo ferramentas, automações e ecossistemas web.
 - 📍 **Base:** Goiânia, GO — Brasil.
 
 ---
@@ -47,6 +47,39 @@ A minha trajetória profissional é pautada por um princípio: **entrar na opera
 [2025-Hoje]  Fundador TM Sempre Tecnologia & Vibe Coder
              ↳ Arquitetura de micro-SaaS, bots quantitativos, orquestração de agentes e CRMs.
 ```
+
+---
+
+## 🌐 Vitrine de Aplicações & Templates no Ar (Live Demos)
+
+Sites, aplicações web e simuladores comerciais prontos em produção:
+
+| Projeto / Solução | Nicho / Finalidade | Status / Link Online |
+| :--- | :--- | :--- |
+| **Caderno de Leads** | CRM & Prospecção Ativa B2B | [cadernodeleads.vercel.app ↗](https://cadernodeleads.vercel.app/) |
+| **Simulador Marcenaria Explan** | Simulador de Orçamentos e Propostas | [orcamentos-marcenaria.vercel.app ↗](https://orcamentos-marcenaria.vercel.app/) |
+| **Explan Orçamentos V2** | App de quantitativos e contratos de marcenaria | [explan-orcamentos.vercel.app ↗](https://explan-orcamentos.vercel.app/) |
+| **Recanto dos Sonhos 63** | Site comercial de eventos e lazer | [recantodossonhos63.com.br ↗](https://recantodossonhos63.com.br/) |
+| **Prestadora Estética & Beleza** | Landing page mobile-first de alta conversão | [modelo-prestadora-feminino.vercel.app ↗](https://modelo-prestadora-feminino.vercel.app/) |
+| **Lash & Sobrancelhas (Catálogo)** | Landing page interativa com catálogo visual | [landingpagecomcatalogo.vercel.app ↗](https://landingpagecomcatalogo.vercel.app/) |
+| **Lash & Sobrancelhas (Clean)** | Landing page direta para agendamento WhatsApp | [landingpagesombrancelhasecilios.vercel.app ↗](https://landingpagesombrancelhasecilios.vercel.app/) |
+| **Proposta Comercial Executiva** | Padrão editorial institucional (Template TM) | [orcamentodeputadoadirgentil.vercel.app ↗](https://orcamentodeputadoadirgentil.vercel.app/proposta-comercial-executiva) |
+| **Painel Adir Gentil** | Dashboard analítico de gestão de campanha | [painel-adirgentil2211.vercel.app ↗](https://painel-adirgentil2211.vercel.app/) |
+| **Candidato Pro** | Plataforma institucional interativa | [candidato-pro.vercel.app ↗](https://candidato-pro.vercel.app/) |
+| **Vision Board** | Aplicação web de produtividade e foco | [vision-board-flame-rho.vercel.app ↗](https://vision-board-flame-rho.vercel.app/) |
+
+---
+
+## 🚀 Projetos de Engenharia & Ferramentas Autônomas
+
+| Projeto / Solução | Categoria | Problema Resolvido | Tecnologias Chave |
+| :--- | :--- | :--- | :--- |
+| **Claw Manager & OpenSquad** | `Orquestração de Agentes IA` | Plataforma de coordenação de squads e múltiplos agentes autônomos trabalhando em paralelo. | `Python` `AI Agents` `Antigravity` `Workflows` |
+| **TmLink Engine** | `Micro-SaaS & FinTech` | Automação e conversão de links de afiliados no Telegram com pagamentos recorrentes Asaas. | `FastAPI` `Supabase` `Clerk` `Asaas` `Telegram API` |
+| **Quant Trading Bots** | `Finanças Quant / Algorítmico` | Robôs algorítmicos para análise técnica e execução autônoma em exchanges (Binance / IQ). | `Python` `WebSockets` `Binance API` `Trading` |
+| **PyAutoGUI Macro Studio** | `RPA / Desktop Engine` | Gravador e executor de automações desktop em lote com interface CustomTkinter. | `Python` `CustomTkinter` `pynput` `RPA` |
+| **ATS Resume Optimizer** | `Inteligência Artificial` | Motor de otimização automática de currículos para máxima pontuação em filtros ATS corporativos. | `Python` `LLM APIs` `Prompt Engineering` |
+| **AutoRelatório Maffeng** | `Automação Industrial` | Eliminação de gargalos em relatórios de engenharia para grandes contratos (Recorde 28/30 dias). | `VBA` `Python` `Processos Maffeng` |
 
 ---
 
@@ -88,20 +121,6 @@ A minha trajetória profissional é pautada por um princípio: **entrar na opera
 ![Google Analytics 4](https://img.shields.io/badge/GA4_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Projetos & Soluções Desenvolvidas
-
-| Projeto / Solução | Categoria | Problema Resolvido | Tecnologias Chave |
-| :--- | :--- | :--- | :--- |
-| **Claw Manager & OpenSquad** | `Orquestração de Agentes IA` | Plataforma de coordenação de squads e múltiplos agentes autônomos trabalhando em paralelo. | `Python` `AI Agents` `Antigravity` `Workflows` |
-| **TmLink Engine** | `Micro-SaaS & FinTech` | Automação e conversão de links de afiliados no Telegram com pagamentos recorrentes Asaas. | `FastAPI` `Supabase` `Clerk` `Asaas` `Telegram API` |
-| **Quant Trading Bots** | `Finanças Quant / Algorítmico` | Robôs algorítmicos para análise técnica e execução autônoma em exchanges (Binance / IQ). | `Python` `WebSockets` `Binance API` `Trading` |
-| **Caderno de Leads** | `Data & Prospecção B2B` | CRM analítico e minerador de dados locais para qualificação comercial ativa. | `Python` `APIs` `Dashboards` `Data Mining` |
-| **PyAutoGUI Macro Studio** | `RPA / Desktop Engine` | Gravador e executor de automações desktop em lote com interface CustomTkinter. | `Python` `CustomTkinter` `pynput` `RPA` |
-| **ATS Resume Optimizer** | `Inteligência Artificial` | Motor de otimização automática de currículos para máxima pontuação em filtros ATS corporativos. | `Python` `LLM APIs` `Prompt Engineering` |
-| **AutoRelatório Maffeng** | `Automação Industrial` | Eliminação de gargalos em relatórios de engenharia para grandes contratos (Recorde 28/30 dias). | `VBA` `Python` `Processos Maffeng` |
 
 ---
 
