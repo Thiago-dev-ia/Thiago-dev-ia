@@ -7,7 +7,7 @@
   <b>Construindo ecossistemas de software, soluções reais e automações na velocidade da inteligência artificial.</b>
 </p>
 
-[![Website](https://img.shields.io/badge/Portfólio-thiagonascimentobarbosapro.com-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thiagonascimentobarbosapro.com)
+[![Website](https://img.shields.io/badge/Portfólio-Em_Desenvolvimento-amber?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thiagonascimentobarbosapro.com)
 [![Status](https://img.shields.io/badge/Status-Estudante_ADS-10b981?style=for-the-badge)](https://thiagonascimentobarbosapro.com)
 [![Empresa](https://img.shields.io/badge/Fundador-TM_Sempre_Tecnologia-f97316?style=for-the-badge)](https://thiagonascimentobarbosapro.com)
 
@@ -91,18 +91,19 @@ A minha trajetória profissional é pautada por um princípio: **entrar na opera
 
 ## 🚀 Projetos & Soluções Desenvolvidas
 
-| Projeto / Iniciativa | Problema Resolvido | Tecnologias & Impacto |
-| :--- | :--- | :--- |
-| **AutoRelatório & Gerenciador de O.S.** | Automação de relatórios fotográficos de engenharia e gestão de chamados na Maffeng. | `VBA` `Python` `Recorde de 28 relatórios/35 dias` |
-| **App Orçamentos Explan (Marcenaria)** | Simulador web mobile-first para quantitativos de marcenaria de alto padrão, contratos e propostas. | `Web App` `CRO` `PWA` `Apresentações IA` |
-| **Caderno de Leads** | Dashboard analítico e CRM proprietário para qualificação e prospecção de negócios locais. | `Python` `APIs` `Dashboards` |
-| **PyAutoGUI Macro Studio** | Gravador e executor de automações desktop em lote com interface CustomTkinter. | `Python` `CustomTkinter` `RPA` |
+| Projeto / Solução | Categoria | Problema Resolvido | Tecnologias Chave |
+| :--- | :--- | :--- | :--- |
+| **Caderno de Leads** | `Produto SaaS / B2B` | CRM analítico e painel para qualificação de leads e negócios locais. | `Python` `APIs` `Dashboards` |
+| **PyAutoGUI Macro Studio** | `RPA / Desktop` | Gravador e executor de automações desktop em lote com interface CustomTkinter. | `Python` `CustomTkinter` `pynput` |
+| **AutoRelatório & Gestão O.S.** | `Automação Industrial` | Eliminação de gargalo em relatórios fotográficos de engenharia na Maffeng. | `VBA` `Python` `Recorde 28/30 dias` |
+| **Simulador Marcenaria Explan** | `Web App / PWA` | Simulador de orçamentos e quantitativos para marcenaria de alto padrão. | `React` `Tailwind` `PWA` `CRO` |
+| **Licitus Bot & Extratores** | `Bots & Web Scraping` | Robôs para extração de dados públicos, documentos docx e automação de rotinas. | `Python` `Scraping` `Bots` |
 
 ---
 
 ## 📬 Conecte-se Comigo
 
-- 🌐 **Website & Portfólio:** [thiagonascimentobarbosapro.com](https://thiagonascimentobarbosapro.com)
+- 🌐 **Website & Portfólio:** [thiagonascimentobarbosapro.com](https://thiagonascimentobarbosapro.com) *(🚧 Em desenvolvimento)*
 - 💼 **Empresa:** TM Sempre Tecnologia
 - 📧 **Contato Profissional:** `thiagonascimentobarbosa2001@gmail.com`
 - 💬 **WhatsApp:** (62) 99604-6458
