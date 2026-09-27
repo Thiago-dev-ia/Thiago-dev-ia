@@ -4,7 +4,7 @@
 ### `Vibe Coder & AI-First Builder 🚀`
 
 <p align="center">
-  <b>Construindo ecossistemas de software, soluções reais e automações na velocidade da inteligência artificial.</b>
+  <b>Construindo ecossistemas de software, produtos digitais e automações na velocidade da inteligência artificial.</b>
 </p>
 
 [![Website](https://img.shields.io/badge/Portfólio-Em_Desenvolvimento-amber?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thiagonascimentobarbosapro.com)
@@ -19,7 +19,7 @@
 
 - 🚀 **Mindset Vibe Coder:** Resolver problemas reais usando tecnologia e IA como multiplicadores de força. Foco em velocidade de ideação, prototipagem ágil e produtos funcionais no ar.
 - 🎓 **Formação:** Estudante de Análise e Desenvolvimento de Sistemas (ADS).
-- 🏢 **Empreendedorismo:** Fundador da **TM Sempre Tecnologia**, construindo ferramentas e soluções digitais autônomas.
+- 🏢 **Empreendedorismo:** Fundador da **TM Sempre Tecnologia**, construindo ferramentas, automações e soluções digitais autônomas.
 - 📍 **Base:** Goiânia, GO — Brasil.
 
 ---
@@ -45,7 +45,7 @@ A minha trajetória profissional é pautada por um princípio: **entrar na opera
       │          vídeos com IA, apresentações comerciais, contratos e documentação técnica.
       ▼
 [2025-Hoje]  Fundador TM Sempre Tecnologia & Vibe Coder
-             ↳ Criação de produtos digitais, CRMs próprios (Caderno de Leads), funis e agentes de IA.
+             ↳ Arquitetura de micro-SaaS, bots quantitativos, orquestração de agentes e CRMs.
 ```
 
 ---
@@ -55,6 +55,7 @@ A minha trajetória profissional é pautada por um princípio: **entrar na opera
 <div align="left">
 
 #### 🤖 AI-First, Agentes Autônomos & Orquestração
+![Claw Manager](https://img.shields.io/badge/Claw_Manager-Multi--Agent_Hub-6366F1?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google&logoColor=white)
@@ -66,6 +67,7 @@ A minha trajetória profissional é pautada por um princípio: **entrar na opera
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -93,11 +95,13 @@ A minha trajetória profissional é pautada por um princípio: **entrar na opera
 
 | Projeto / Solução | Categoria | Problema Resolvido | Tecnologias Chave |
 | :--- | :--- | :--- | :--- |
-| **Caderno de Leads** | `Produto SaaS / B2B` | CRM analítico e painel para qualificação de leads e negócios locais. | `Python` `APIs` `Dashboards` |
-| **PyAutoGUI Macro Studio** | `RPA / Desktop` | Gravador e executor de automações desktop em lote com interface CustomTkinter. | `Python` `CustomTkinter` `pynput` |
-| **AutoRelatório & Gestão O.S.** | `Automação Industrial` | Eliminação de gargalo em relatórios fotográficos de engenharia na Maffeng. | `VBA` `Python` `Recorde 28/30 dias` |
-| **Simulador Marcenaria Explan** | `Web App / PWA` | Simulador de orçamentos e quantitativos para marcenaria de alto padrão. | `React` `Tailwind` `PWA` `CRO` |
-| **Licitus Bot & Extratores** | `Bots & Web Scraping` | Robôs para extração de dados públicos, documentos docx e automação de rotinas. | `Python` `Scraping` `Bots` |
+| **Claw Manager & OpenSquad** | `Orquestração de Agentes IA` | Plataforma de coordenação de squads e múltiplos agentes autônomos trabalhando em paralelo. | `Python` `AI Agents` `Antigravity` `Workflows` |
+| **TmLink Engine** | `Micro-SaaS & FinTech` | Automação e conversão de links de afiliados no Telegram com pagamentos recorrentes Asaas. | `FastAPI` `Supabase` `Clerk` `Asaas` `Telegram API` |
+| **Quant Trading Bots** | `Finanças Quant / Algorítmico` | Robôs algorítmicos para análise técnica e execução autônoma em exchanges (Binance / IQ). | `Python` `WebSockets` `Binance API` `Trading` |
+| **Caderno de Leads** | `Data & Prospecção B2B` | CRM analítico e minerador de dados locais para qualificação comercial ativa. | `Python` `APIs` `Dashboards` `Data Mining` |
+| **PyAutoGUI Macro Studio** | `RPA / Desktop Engine` | Gravador e executor de automações desktop em lote com interface CustomTkinter. | `Python` `CustomTkinter` `pynput` `RPA` |
+| **ATS Resume Optimizer** | `Inteligência Artificial` | Motor de otimização automática de currículos para máxima pontuação em filtros ATS corporativos. | `Python` `LLM APIs` `Prompt Engineering` |
+| **AutoRelatório Maffeng** | `Automação Industrial` | Eliminação de gargalos em relatórios de engenharia para grandes contratos (Recorde 28/30 dias). | `VBA` `Python` `Processos Maffeng` |
 
 ---
 
