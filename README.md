@@ -50,23 +50,32 @@ A minha trajetória profissional é pautada por um princípio: **entrar na opera
 
 ---
 
-## 🌐 Vitrine de Aplicações & Templates no Ar (Live Demos)
+## 🌐 Vitrine de Aplicações & Templates Comerciais (Live Demos)
 
-Sites, aplicações web e simuladores comerciais prontos em produção:
+Templates e aplicações comerciais no ar para clientes e demonstrações externas:
 
 | Projeto / Solução | Nicho / Finalidade | Status / Link Online |
 | :--- | :--- | :--- |
-| **Caderno de Leads** | CRM & Prospecção Ativa B2B | [cadernodeleads.vercel.app ↗](https://cadernodeleads.vercel.app/) |
 | **Simulador Marcenaria Explan** | Simulador de Orçamentos e Propostas | [orcamentos-marcenaria.vercel.app ↗](https://orcamentos-marcenaria.vercel.app/) |
 | **Explan Orçamentos V2** | App de quantitativos e contratos de marcenaria | [explan-orcamentos.vercel.app ↗](https://explan-orcamentos.vercel.app/) |
 | **Recanto dos Sonhos 63** | Site comercial de eventos e lazer | [recantodossonhos63.com.br ↗](https://recantodossonhos63.com.br/) |
 | **Prestadora Estética & Beleza** | Landing page mobile-first de alta conversão | [modelo-prestadora-feminino.vercel.app ↗](https://modelo-prestadora-feminino.vercel.app/) |
 | **Lash & Sobrancelhas (Catálogo)** | Landing page interativa com catálogo visual | [landingpagecomcatalogo.vercel.app ↗](https://landingpagecomcatalogo.vercel.app/) |
 | **Lash & Sobrancelhas (Clean)** | Landing page direta para agendamento WhatsApp | [landingpagesombrancelhasecilios.vercel.app ↗](https://landingpagesombrancelhasecilios.vercel.app/) |
-| **Proposta Comercial Executiva** | Padrão editorial institucional (Template TM) | [orcamentodeputadoadirgentil.vercel.app ↗](https://orcamentodeputadoadirgentil.vercel.app/proposta-comercial-executiva) |
 | **Painel Adir Gentil** | Dashboard analítico de gestão de campanha | [painel-adirgentil2211.vercel.app ↗](https://painel-adirgentil2211.vercel.app/) |
 | **Candidato Pro** | Plataforma institucional interativa | [candidato-pro.vercel.app ↗](https://candidato-pro.vercel.app/) |
 | **Vision Board** | Aplicação web de produtividade e foco | [vision-board-flame-rho.vercel.app ↗](https://vision-board-flame-rho.vercel.app/) |
+
+---
+
+## 🔒 Soluções Internas & Infraestrutura Operacional (TM Private Apps)
+
+Ferramentas proprietárias de uso interno para operação, prospecção e fechamento de negócios:
+
+| Aplicação Interna | Finalidade Operacional | Acesso & Arquitetura |
+| :--- | :--- | :--- |
+| **Caderno de Leads** | CRM analítico e minerador de dados para prospecção ativa de empresas locais. | `Uso Interno TM` • [Painel Restrito ↗](https://cadernodeleads.vercel.app/) |
+| **Proposta Comercial Executiva** | Padrão editorial executivo (Template McKinsey/TM) com aceite formal via WhatsApp. | `Privado / Comercial` • [Modelo Restrito ↗](https://orcamentodeputadoadirgentil.vercel.app/proposta-comercial-executiva) |
 
 ---
 
