@@ -47,6 +47,14 @@ Entrar na operação para entender a dor e construir a ferramenta que elimina o 
 
 ---
 
+### 📚 Especializações & Certificações
+
+- **iCoders Academy:** Desenvolvimento de aplicações web e automações.
+- **Comunidade Sobral de Tráfego Pago:** Otimização de conversão (CRO), métricas de aquisição, pixel e comportamento de tráfego.
+- **Fórmula Negócio Online (Alex Vargas):** Estruturação de esteiras de produtos digitais, páginas de vendas e funis de conversão.
+
+---
+
 ### 🌐 Aplicações & Templates Comerciais no Ar
 
 Projetos web responsivos em produção com deploy contínuo (CI/CD via Vercel/GitHub):
@@ -58,8 +66,6 @@ Projetos web responsivos em produção com deploy contínuo (CI/CD via Vercel/Gi
   Versão com memorial de cálculo, geração de contratos e API REST interna.
 
 #### 💅 Estética, Beleza & Serviços
-- **[Prestadora Estética & Beleza ↗](https://modelo-prestadora-feminino.vercel.app/)**
-  Landing page de alta conversão com CRO, tipografia editorial e captura WhatsApp.
 - **[Lash & Sobrancelhas (Com Catálogo) ↗](https://landingpagecomcatalogo.vercel.app/)**
   Página interativa com vitrine visual de procedimentos e depoimentos de clientes.
 - **[Lash & Sobrancelhas (Versão Clean) ↗](https://landingpagesombrancelhasecilios.vercel.app/)**
@@ -74,15 +80,6 @@ Projetos web responsivos em produção com deploy contínuo (CI/CD via Vercel/Gi
   Template institucional interativo para autoridade e propostas.
 - **[Vision Board ↗](https://vision-board-flame-rho.vercel.app/)**
   Web app de produtividade pessoal e metas com interface intuitiva.
-
----
-
-### 🔒 Soluções Internas (TM Private Apps)
-
-- **[Caderno de Leads ↗](https://cadernodeleads.vercel.app/)** `(Acesso Restrito)`
-  CRM proprietário com mineração de dados, qualificação de leads B2B e dashboards analíticos.
-- **[Proposta Comercial Executiva ↗](https://orcamentodeputadoadirgentil.vercel.app/proposta-comercial-executiva)** `(Modelo Restrito)`
-  Design editorial institucional com geração de PDF, aceite formal via WhatsApp e cálculos dinâmicos.
 
 ---
 
